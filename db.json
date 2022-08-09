@@ -1,4 +1,5 @@
 { "data":
+
 [
     {
       "id": 1,
@@ -21,22 +22,27 @@
       "employee_name": "Ashton Cox",
       "employee_salary": 86000,
       "employee_age": 66,
-      "email": "Analyst"
+      "email": "ashton@gmail.com",
+      "designation": "Analyst"
     },
     {
       "id": 4,
       "employee_name": "Cedric Kelly",
       "employee_salary": 433060,
       "employee_age": 22,
-      "email": "Data engineer"
+      "email": "cedric@gmail.com",
+      "designation": "Data engineer"
     },
     {
       "id": 5,
       "employee_name": "Airi Satou",
       "employee_salary": 162700,
       "employee_age": 33,
-      "email": "Software"
+      "email": "airi@gmail.com",
+      "designation": "Software"
     }
+    
+  
     
   ]
 }
