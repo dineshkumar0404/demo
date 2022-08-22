@@ -1,47 +1,59 @@
 { "data":
 
 [
-    {
-      "id": 1,
-      "employee_name": "Tiger Nixon",
-      "employee_salary": 320800,
-      "employee_age": 61,
+  {
+      "id": "SPC0001",
+      "employeename": "TigerNixon",
+      "employeesalary": 320800,
+      "employeeage": 41,
       "email": "tiger@gmail.com",
-      "designation":"Developer"
+      "designation":"Developer",
+      "file":"https://cdn4.iconfinder.com/data/icons/small-n-flat/24/user-512.png"
+
     },
     {
-      "id": 2,
-      "employee_name": "Garrett Winters",
-      "employee_salary": 170750,
-      "employee_age": 63,
+      "id": "SPC0002",
+      "employeename": "GarrettWinters",
+      "employeesalary": 170750,
+      "employeeage": 53,
       "email": "garrett@gmail.com",
-      "designation":"Tester"
+      "designation":"Tester",
+      "file":"https://cdn4.iconfinder.com/data/icons/small-n-flat/24/user-512.png"
+            
     },
     {
-      "id": 3,
-      "employee_name": "Ashton Cox",
-      "employee_salary": 86000,
-      "employee_age": 66,
+      "id": "SPC0003",
+      "employeename": "AshtonCox",
+      "employeesalary": 86000,
+      "employeeage": 56,
       "email": "ashton@gmail.com",
-      "designation": "Analyst"
+      "designation": "Analyst",
+      "file":"https://cdn4.iconfinder.com/data/icons/small-n-flat/24/user-512.png"
+
+
     },
     {
-      "id": 4,
-      "employee_name": "Cedric Kelly",
-      "employee_salary": 433060,
-      "employee_age": 22,
+      "id": "SPC0004",
+      "employeename": "CedricKelly",
+      "employeesalary": 433060,
+      "employeeage": 22,
       "email": "cedric@gmail.com",
-      "designation": "Data engineer"
+      "designation": "Dataengineer",
+      "file":"https://cdn4.iconfinder.com/data/icons/small-n-flat/24/user-512.png"
+
+
     },
     {
-      "id": 5,
-      "employee_name": "Airi Satou",
-      "employee_salary": 162700,
-      "employee_age": 33,
+      "id": "SPC0005",
+      "employeename": "AiriSatou",
+      "employeesalary": 162700,
+      "employeeage": 33,
       "email": "airi@gmail.com",
-      "designation": "Software"
+      "designation": "Software",
+      "file":"https://cdn4.iconfinder.com/data/icons/small-n-flat/24/user-512.png"
+
+
     }
-    
   
     
   ]
