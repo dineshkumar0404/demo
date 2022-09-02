@@ -13,14 +13,24 @@
     },
    
     {
+      "id": "SPC0002",
+      "employeename": "Michell",
+      "employeesalary": 92000,
+      "employeeage": 36,
+      "email": "michell@gmail.com",
+      "designation": "Developer",
+      "file":"https://cdn4.iconfinder.com/data/icons/small-n-flat/24/user-512.png"
+
+
+    },
+    {
       "id": "SPC0003",
       "employeename": "AshtonCox",
       "employeesalary": 86000,
       "employeeage": 56,
       "email": "ashton@gmail.com",
       "designation": "Analyst",
-      "file":"https://uxwing.com/wp-content/themes/uxwing/download/peoples-avatars/no-profile-picture-icon.png"
-
+      "file":"https://cdn4.iconfinder.com/data/icons/small-n-flat/24/user-512.png"
 
     },
     {
