@@ -11,16 +11,7 @@
       "file":"https://cdn4.iconfinder.com/data/icons/small-n-flat/24/user-512.png"
 
     },
-    {
-      "id": "SPC0002",
-      "employeename": "GarrettWinters",
-      "employeesalary": 170750,
-      "employeeage": 53,
-      "email": "garrett@gmail.com",
-      "designation":"Tester",
-      "file":"https://p.kindpng.com/picc/s/367-3674232_apa-itu-cyclomatic-complexity-admin-profile-hd-png.png"
-            
-    },
+   
     {
       "id": "SPC0003",
       "employeename": "AshtonCox",
